@@ -5,6 +5,7 @@ import sys
  
 def main(argv):
   
+  #Testing off of Jordanias Minicomp
   
   #create dictionary storing the month, country, and customer ID as the collective key value, and the purchance Amount currently being read in
   MCI_Dict = {}
