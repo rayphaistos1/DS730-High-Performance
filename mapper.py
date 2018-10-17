@@ -12,5 +12,6 @@ def main(argv):
       print(word+"\t"+"1")
     line = sys.stdin.readline()
 #Note there are two underscores around name and main
+# sharmain edits
 if __name__ == "__main__":
   main(sys.argv)
